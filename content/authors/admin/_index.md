@@ -37,7 +37,7 @@ interests:
 education:
   courses:
     - course: MSc in Industrial Ecology
-      institution: Stanford University
+      institution: Leiden University
       year: 2024
     - course: MSc in Cognitive Engineering 
       institution: Ecole Nationale Superieure de Cognitique
