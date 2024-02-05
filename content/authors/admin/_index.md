@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Adrien Perello
+title: 
 
 # Name pronunciation (optional)
 name_pronunciation: Adrien Perello
